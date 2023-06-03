@@ -26,7 +26,7 @@ class Solution:
         return self.depthFirstSearch(headID, informTime, adjacencyList)
     
 """
-Problem Definition:
+Problem Description:
 A company has n employees with a unique ID for each employee from 0 to n - 1. The head of the company is the one with headID.
 
 Each employee has one direct manager given in the manager array where manager[i] is the direct manager of the i-th employee, manager[headID] = -1. 
