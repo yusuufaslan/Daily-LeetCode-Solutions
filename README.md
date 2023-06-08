@@ -21,3 +21,12 @@ The problems are classified according to months in which they were asked, and th
 | 227 | Basic Calculator II  | Medium |
 | 547 | Number of Provinces  | Medium |
 | 1226 | The Dining Philosopher  | Medium |
+| 5 - 6 June |
+| 895 | Maximum Frequency Stack | Hard |
+| 1232 | Check If It is a Straight Line  | Easy |
+| 1502 | Can Make Arithmetic Progression From Sequence  | Easy |
+| 7 - 8 June |
+| 2527 | Find XOR Beauty of Array | Medium |
+| 1318 | Minimum Flips to Make A OR B Equal to C  | Medium |
+| 1351 | Count Negative Numbers in a Sorted Matrix  | Easy |
+| 2047 | Number of Valid Words in a Sentence | Easy |
