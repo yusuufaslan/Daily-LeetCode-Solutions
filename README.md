@@ -30,3 +30,5 @@ The problems are classified according to months in which they were asked, and th
 | 1318 | Minimum Flips to Make A OR B Equal to C  | Medium |
 | 1351 | Count Negative Numbers in a Sorted Matrix  | Easy |
 | 2047 | Number of Valid Words in a Sentence | Easy |
+| 9 June |
+| 744 | Find Smallest Letter Greater Than Target | Easy |
