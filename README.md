@@ -33,3 +33,5 @@ The problems are classified according to months in which they were asked, and th
 | 9 June |
 | 744 | Find Smallest Letter Greater Than Target | Easy |
 | 416 | Partition Equal Subset Sum | Medium |
+| 10 June |
+| 1802 | Maximum Value at a Given Index in a Bounded Array | Medium |
